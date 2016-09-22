@@ -4,7 +4,7 @@
 
 ## Description
 
-_The goal for this webpage was to list favorite ice cream flavors using arrays and looping in JavaScript. 
+_The goal for this webpage was to list favorite ice cream flavors using arrays and looping in JavaScript._
 
 ## Setup/Installation Requirements
 
